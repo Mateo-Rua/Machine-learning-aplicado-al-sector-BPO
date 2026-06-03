@@ -220,16 +220,6 @@ Arquitectura completa en GCP documentada en [`docs/arquitectura_despliegue.pdf`]
 
 ---
 
-## 🔮 Trabajo Futuro
-
-- Diseñar un pipeline de despliegue con MLflow para versionar y automatizar el reentrenamiento del modelo.
-- Explorar *feature engineering* temporal con `Fecha_consulta` (estacionalidad, tendencias, días pico).
-- Evaluar ensambles tipo *stacking* combinando los tres modelos.
-- Reemplazar TF-IDF por embeddings densos (`text-embedding-004`) para clustering semántico más preciso.
-- Fine-tunear un modelo LLM específico para el dominio BPO de energía.
-
----
-
 ## 👤 Autor
 
 **Mateo Rua**
